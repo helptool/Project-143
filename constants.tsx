@@ -17,42 +17,42 @@ export const START_DATE = "2024-10-07T17:35:00";
 export const MEMORIES: Memory[] = [
   { 
     id: 1, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/photo_6307445476504490976_y.jpg", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/photo_6307445476504490976_y.jpg", 
     caption: "The way you smile lights up my whole world, Meri Jaan ✨" 
   },
   { 
     id: 2, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/photo_6203946467002007925_y.jpg", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/photo_6203946467002007925_y.jpg", 
     caption: "Even the simplest moments with you feel like magic, Meri Jaadu 💖" 
   },
   { 
     id: 3, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/Generated%20Image%20February%2008%2C%202026%20-%205_11PM.png", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/Generated%20Image%20February%2008%2C%202026%20-%205_11PM.png", 
     caption: "Missing your warmth every single second, Mera Baccha 🥺" 
   },
   { 
     id: 4, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/ChatGPT%20Image%20Feb%208%2C%202026%2C%2005_35_42%20PM.png", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/ChatGPT%20Image%20Feb%208%2C%202026%2C%2005_35_42%20PM.png", 
     caption: "Can't wait to let you hold my hand forever, Meri Shona 🤝" 
   },
   { 
     id: 5, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/ChatGPT%20Image%20Feb%208%2C%202026%2C%2005_39_33%20PM.png", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/ChatGPT%20Image%20Feb%208%2C%202026%2C%2005_39_33%20PM.png", 
     caption: "You are the cutest person that ever existed, My Cutie Pie 🥰" 
   },
   { 
     id: 6, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/Generated%20Image%20February%2008%2C%202026%20-%205_02PM.png", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/Generated%20Image%20February%2008%2C%202026%20-%205_02PM.png", 
     caption: "My heart beats only for you, My little baby ❤️" 
   },
   { 
     id: 7, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/photo_6289660394888872967_y.jpg", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/photo_6289660394888872967_y.jpg", 
     caption: "Every memory with you is a treasure that I keep safe 🍯✨" 
   },
   { 
     id: 8, 
-    url: "https://raw.githubusercontent.com/helptool/My-Valentine/main/images/ChatGPT%20Image%20Feb%208%2C%202026%2C%2005_31_19%20PM.png", 
+    url: "https://raw.githubusercontent.com/helptool/Project-143/main/images/ChatGPT%20Image%20Feb%208%2C%202026%2C%2005_31_19%20PM.png", 
     caption: "I am forever grateful to have you in my life, my life 🥹🌹" 
   }
 ];
